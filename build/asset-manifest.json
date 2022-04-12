@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.709b8f4e.css",
-    "main.js": "/static/js/main.e5cb3d46.js",
-    "static/js/787.9cc1d5f3.chunk.js": "/static/js/787.9cc1d5f3.chunk.js",
-    "static/media/spritesheet.svg": "/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
-    "index.html": "/index.html",
-    "main.709b8f4e.css.map": "/static/css/main.709b8f4e.css.map",
-    "main.e5cb3d46.js.map": "/static/js/main.e5cb3d46.js.map",
-    "787.9cc1d5f3.chunk.js.map": "/static/js/787.9cc1d5f3.chunk.js.map"
+    "main.css": "/mohamad-mayia/static/css/main.69c6bfa7.css",
+    "main.js": "/mohamad-mayia/static/js/main.f05b954b.js",
+    "static/js/787.9cc1d5f3.chunk.js": "/mohamad-mayia/static/js/787.9cc1d5f3.chunk.js",
+    "static/media/spritesheet.svg": "/mohamad-mayia/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
+    "index.html": "/mohamad-mayia/index.html",
+    "main.69c6bfa7.css.map": "/mohamad-mayia/static/css/main.69c6bfa7.css.map",
+    "main.f05b954b.js.map": "/mohamad-mayia/static/js/main.f05b954b.js.map",
+    "787.9cc1d5f3.chunk.js.map": "/mohamad-mayia/static/js/787.9cc1d5f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.709b8f4e.css",
-    "static/js/main.e5cb3d46.js"
+    "static/css/main.69c6bfa7.css",
+    "static/js/main.f05b954b.js"
   ]
 }
