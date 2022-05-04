@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/mohamad-mayia/static/css/main.69c6bfa7.css",
-    "main.js": "/mohamad-mayia/static/js/main.f05b954b.js",
-    "static/js/787.9cc1d5f3.chunk.js": "/mohamad-mayia/static/js/787.9cc1d5f3.chunk.js",
-    "static/media/spritesheet.svg": "/mohamad-mayia/static/media/spritesheet.a4e0eb7ad904a4858361.svg",
+    "main.css": "/mohamad-mayia/static/css/main.a79ef976.css",
+    "main.js": "/mohamad-mayia/static/js/main.c35e34f9.js",
+    "static/js/787.08307fcc.chunk.js": "/mohamad-mayia/static/js/787.08307fcc.chunk.js",
     "index.html": "/mohamad-mayia/index.html",
-    "main.69c6bfa7.css.map": "/mohamad-mayia/static/css/main.69c6bfa7.css.map",
-    "main.f05b954b.js.map": "/mohamad-mayia/static/js/main.f05b954b.js.map",
-    "787.9cc1d5f3.chunk.js.map": "/mohamad-mayia/static/js/787.9cc1d5f3.chunk.js.map"
+    "main.a79ef976.css.map": "/mohamad-mayia/static/css/main.a79ef976.css.map",
+    "main.c35e34f9.js.map": "/mohamad-mayia/static/js/main.c35e34f9.js.map",
+    "787.08307fcc.chunk.js.map": "/mohamad-mayia/static/js/787.08307fcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69c6bfa7.css",
-    "static/js/main.f05b954b.js"
+    "static/css/main.a79ef976.css",
+    "static/js/main.c35e34f9.js"
   ]
 }
