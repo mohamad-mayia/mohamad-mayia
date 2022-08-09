@@ -1,15 +1,32 @@
 {
   "files": {
-    "main.css": "/mohamad-mayia/static/css/main.a79ef976.css",
-    "main.js": "/mohamad-mayia/static/js/main.c35e34f9.js",
-    "static/js/787.08307fcc.chunk.js": "/mohamad-mayia/static/js/787.08307fcc.chunk.js",
+    "main.css": "/mohamad-mayia/static/css/main.bab0b925.chunk.css",
+    "main.js": "/mohamad-mayia/static/js/main.64adaa90.chunk.js",
+    "main.js.map": "/mohamad-mayia/static/js/main.64adaa90.chunk.js.map",
+    "runtime-main.js": "/mohamad-mayia/static/js/runtime-main.c4256728.js",
+    "runtime-main.js.map": "/mohamad-mayia/static/js/runtime-main.c4256728.js.map",
+    "static/js/2.b6354fab.chunk.js": "/mohamad-mayia/static/js/2.b6354fab.chunk.js",
+    "static/js/2.b6354fab.chunk.js.map": "/mohamad-mayia/static/js/2.b6354fab.chunk.js.map",
+    "static/js/3.4021fe22.chunk.js": "/mohamad-mayia/static/js/3.4021fe22.chunk.js",
+    "static/js/3.4021fe22.chunk.js.map": "/mohamad-mayia/static/js/3.4021fe22.chunk.js.map",
     "index.html": "/mohamad-mayia/index.html",
-    "main.a79ef976.css.map": "/mohamad-mayia/static/css/main.a79ef976.css.map",
-    "main.c35e34f9.js.map": "/mohamad-mayia/static/js/main.c35e34f9.js.map",
-    "787.08307fcc.chunk.js.map": "/mohamad-mayia/static/js/787.08307fcc.chunk.js.map"
+    "static/css/main.bab0b925.chunk.css.map": "/mohamad-mayia/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.b6354fab.chunk.js.LICENSE.txt": "/mohamad-mayia/static/js/2.b6354fab.chunk.js.LICENSE.txt",
+    "static/media/Mohamd_Mayia_Cv.08a63bb5.pdf": "/mohamad-mayia/static/media/Mohamd_Mayia_Cv.08a63bb5.pdf",
+    "static/media/dastn.f325cf48.png": "/mohamad-mayia/static/media/dastn.f325cf48.png",
+    "static/media/hashtag.c888f10a.png": "/mohamad-mayia/static/media/hashtag.c888f10a.png",
+    "static/media/ikoniks.92a69555.png": "/mohamad-mayia/static/media/ikoniks.92a69555.png",
+    "static/media/masters.75bf3d47.png": "/mohamad-mayia/static/media/masters.75bf3d47.png",
+    "static/media/mohamad.364fdb7b.JPG": "/mohamad-mayia/static/media/mohamad.364fdb7b.JPG",
+    "static/media/ora.b3583743.png": "/mohamad-mayia/static/media/ora.b3583743.png",
+    "static/media/wodex.9755a725.png": "/mohamad-mayia/static/media/wodex.9755a725.png",
+    "static/media/wordpresIkoniks.505cc307.png": "/mohamad-mayia/static/media/wordpresIkoniks.505cc307.png",
+    "static/media/zero.0a0638ef.png": "/mohamad-mayia/static/media/zero.0a0638ef.png"
   },
   "entrypoints": [
-    "static/css/main.a79ef976.css",
-    "static/js/main.c35e34f9.js"
+    "static/js/runtime-main.c4256728.js",
+    "static/js/2.b6354fab.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.64adaa90.chunk.js"
   ]
 }
